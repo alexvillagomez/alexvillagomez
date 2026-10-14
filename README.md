@@ -17,7 +17,7 @@ Recommendation and education algorithms are the core of what I do:
 
 ### Tools I use
 
-Python and SQL are what I know best, and most of my algorithm and data work happens there, usually in Postgres and Supabase (SQL functions, pgvector, row-level security). I build and ship full products on top of that with Next.js, React, and TypeScript, deployed on Vercel, with Stripe and the OpenAI APIs where I need them. My coursework leans heavily on the quant side, which is where a lot of the modeling instincts come from: linear algebra, probability and Bayesian stats, and econometrics.
+Python and SQL are what I know best, and most of my algorithm and data work happens there, usually in Postgres and Supabase (SQL functions, pgvector, row-level security). I build and ship full products on top of that with Next.js, React, and TypeScript, deployed on Vercel, with Stripe and the OpenAI APIs where I need them. My coursework leans heavily on the quant side, which is where a lot of the modeling instincts come from: linear algebra, probability and Bayesian stats, and econometrics. For that work I use R and Julia, and two of those courses are up on GitHub (below).
 
 ### Projects I'm proudest of
 
@@ -46,6 +46,13 @@ A tutoring service for UCLA students that I built and run end to end. Students b
 
 - I've helped Derek Shi build [booked](https://github.com/alexvillagomez/booked), a personalized book-recommendation app that uses vector search.
 - [function-builder](https://github.com/alexvillagomez/function-builder) is a Windows add-in I made that turns plain-English descriptions into real, working Excel functions.
+
+### Coursework
+
+Problem sets from two of my quant econ classes, with the code, output, and written answers together:
+
+- [econ144-economic-forecasting](https://github.com/alexvillagomez/econ144-economic-forecasting): Economic Forecasting in R. ARIMA model selection, cointegration, GARCH, dynamic and harmonic regression, and VARs, plus three forecasting projects on electricity prices, flu search trends, and MLB payrolls.
+- [econ109-optimal-taxation](https://github.com/alexvillagomez/econ109-optimal-taxation): Optimal taxation in Julia. Numerically solving Ramsey problems to show when a flat VAT is optimal, how wage taxes and government debt should move with household patience, and how a wealth tax compares to a capital income tax in a portfolio model with Monte Carlo simulation.
 
 ### Reach me
 
